@@ -1,0 +1,37 @@
+.mybutton{
+width: 300px;
+border-radius: 300px;
+
+}
+
+body {
+    background-color:#2b3752;
+    font-family:sans-serif;
+    font-size: 15px;
+    color: #C0C0C0;
+}
+
+.corfundo {
+    background-color: #74869d;
+}
+
+.card {
+background-color: #74869d;
+
+}
+
+.button {
+    background-color: #2b3752;
+}
+
+.btn-blue {
+    background-color:#2b3752 ;
+    color: antiquewhite;
+}
+
+.carousel {
+    width: 60%;
+    height: 60%;
+    margin-top: 20px;
+    margin-left: 18%;
+}
